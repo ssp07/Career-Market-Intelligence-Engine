@@ -1,0 +1,501 @@
+job_id,title,company,location,salary,experience,industry,skills,remote,posted_date
+JOB0001,Data Engineer,Goldman Sachs,Mumbai,1628185,4,Technology,"Python,SQL,Azure,Spark",No,2026-11-03
+JOB0002,Cloud Data Engineer,Google,Pune,2244288,1,Technology,"Azure,Python,SQL,Fabric",No,2026-10-31
+JOB0003,Data Analyst,Salesforce,Delhi,1423244,1,Technology,"SQL,Excel,Power BI",Yes,2026-11-01
+JOB0004,Data Engineer,Deloitte,Noida,1368812,2,Technology,"Python,SQL,Azure,Spark",No,2026-10-29
+JOB0005,Machine Learning Engineer,Cognizant,Bangalore,2431163,9,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-24
+JOB0006,Machine Learning Engineer,JP Morgan,Noida,1996720,6,Technology,"Python,ML,AWS,Spark",No,2026-11-08
+JOB0007,Data Scientist,Oracle,Chennai,2648935,8,Technology,"Python,ML,SQL",Hybrid,2026-10-22
+JOB0008,Analytics Engineer,Wipro,Kolkata,1300724,10,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-17
+JOB0009,Cloud Data Engineer,Amazon,Bangalore,2670238,3,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-29
+JOB0010,Data Engineer,Wipro,Bangalore,1825644,3,Technology,"Python,SQL,Azure,Spark",No,2026-10-22
+JOB0011,Cloud Data Engineer,Accenture,Chennai,2010475,2,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-15
+JOB0012,Data Scientist,Amazon,Delhi,1839810,8,Technology,"Python,ML,SQL",No,2026-11-03
+JOB0013,Machine Learning Engineer,Cognizant,Bangalore,2700153,4,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-19
+JOB0014,Data Analyst,Google,Chennai,768472,10,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-13
+JOB0015,Data Analyst,Adobe,Delhi,727330,5,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-20
+JOB0016,Data Engineer,Capgemini,Bangalore,1690579,7,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-15
+JOB0017,Analytics Engineer,Capgemini,Pune,2386084,6,Technology,"Python,SQL,DBT,Power BI",No,2026-10-18
+JOB0018,Cloud Data Engineer,JP Morgan,Chennai,2331371,4,Technology,"Azure,Python,SQL,Fabric",No,2026-10-27
+JOB0019,Machine Learning Engineer,Wipro,Hyderabad,2966229,9,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-21
+JOB0020,Cloud Data Engineer,Google,Noida,2588383,8,Technology,"Azure,Python,SQL,Fabric",No,2026-11-09
+JOB0021,Data Engineer,JP Morgan,Mumbai,1286254,5,Technology,"Python,SQL,Azure,Spark",No,2026-10-11
+JOB0022,Data Scientist,Cognizant,Chennai,1896536,4,Technology,"Python,ML,SQL",Hybrid,2026-11-02
+JOB0023,Cloud Data Engineer,HCL,Bangalore,2857794,3,Technology,"Azure,Python,SQL,Fabric",No,2026-10-15
+JOB0024,Fabric Engineer,Amazon,Kolkata,2564345,10,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-11
+JOB0025,BI Developer,Amazon,Noida,1208420,9,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-25
+JOB0026,Machine Learning Engineer,Google,Chennai,2874809,2,Technology,"Python,ML,AWS,Spark",Yes,2026-11-06
+JOB0027,Data Scientist,TCS,Chennai,2310649,8,Technology,"Python,ML,SQL",Hybrid,2026-10-16
+JOB0028,Data Scientist,Accenture,Bangalore,1732021,4,Technology,"Python,ML,SQL",No,2026-11-10
+JOB0029,Data Engineer,Wipro,Noida,1328370,2,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-05
+JOB0030,Data Analyst,Salesforce,Delhi,1066375,3,Technology,"SQL,Excel,Power BI",Yes,2026-10-25
+JOB0031,Fabric Engineer,Infosys,Chennai,2154540,2,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-29
+JOB0032,Data Analyst,Amazon,Kolkata,1047506,2,Technology,"SQL,Excel,Power BI",No,2026-10-28
+JOB0033,Analytics Engineer,Cognizant,Chennai,1444707,2,Technology,"Python,SQL,DBT,Power BI",No,2026-10-21
+JOB0034,Data Analyst,Infosys,Kolkata,1584826,3,Technology,"SQL,Excel,Power BI",No,2026-11-01
+JOB0035,Cloud Data Engineer,Deloitte,Mumbai,1665581,9,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-28
+JOB0036,Data Analyst,Microsoft,Bangalore,1544266,9,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-23
+JOB0037,Fabric Engineer,IBM,Bangalore,2564403,4,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-24
+JOB0038,BI Developer,HCL,Bangalore,1654154,7,Technology,"Power BI,SQL,DAX",Hybrid,2026-11-09
+JOB0039,Data Engineer,Microsoft,Kolkata,2390287,5,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-23
+JOB0040,Data Analyst,IBM,Kolkata,1128952,2,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-20
+JOB0041,Data Analyst,Cognizant,Delhi,1160298,3,Technology,"SQL,Excel,Power BI",Yes,2026-10-29
+JOB0042,Data Analyst,Wipro,Mumbai,1429036,3,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-17
+JOB0043,Analytics Engineer,Capgemini,Noida,2004860,7,Technology,"Python,SQL,DBT,Power BI",Yes,2026-11-01
+JOB0044,Machine Learning Engineer,Goldman Sachs,Delhi,2625864,3,Technology,"Python,ML,AWS,Spark",No,2026-10-25
+JOB0045,Fabric Engineer,Oracle,Kolkata,2380889,9,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-12
+JOB0046,BI Developer,Adobe,Pune,1224262,9,Technology,"Power BI,SQL,DAX",No,2026-10-29
+JOB0047,Cloud Data Engineer,Amazon,Noida,1927131,5,Technology,"Azure,Python,SQL,Fabric",No,2026-10-26
+JOB0048,Data Engineer,Infosys,Mumbai,2218360,5,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-06
+JOB0049,Data Engineer,Google,Bangalore,1570211,4,Technology,"Python,SQL,Azure,Spark",No,2026-10-11
+JOB0050,Data Analyst,Microsoft,Delhi,1223902,5,Technology,"SQL,Excel,Power BI",Yes,2026-11-07
+JOB0051,Data Analyst,IBM,Kolkata,1235022,8,Technology,"SQL,Excel,Power BI",No,2026-11-08
+JOB0052,Analytics Engineer,JP Morgan,Delhi,2325567,5,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-11-02
+JOB0053,BI Developer,JP Morgan,Hyderabad,952445,9,Technology,"Power BI,SQL,DAX",No,2026-11-05
+JOB0054,Fabric Engineer,Adobe,Kolkata,2640525,5,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-06
+JOB0055,Data Engineer,Oracle,Hyderabad,2501964,2,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-09
+JOB0056,Analytics Engineer,Capgemini,Mumbai,2060828,1,Technology,"Python,SQL,DBT,Power BI",No,2026-10-28
+JOB0057,Data Engineer,Wipro,Pune,2023155,1,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-28
+JOB0058,Data Analyst,Amazon,Hyderabad,1189457,3,Technology,"SQL,Excel,Power BI",No,2026-11-10
+JOB0059,Data Analyst,Google,Delhi,1209088,3,Technology,"SQL,Excel,Power BI",No,2026-10-23
+JOB0060,Machine Learning Engineer,Capgemini,Hyderabad,3056461,2,Technology,"Python,ML,AWS,Spark",No,2026-10-23
+JOB0061,BI Developer,Accenture,Delhi,1284592,1,Technology,"Power BI,SQL,DAX",Yes,2026-11-06
+JOB0062,BI Developer,Accenture,Bangalore,806644,10,Technology,"Power BI,SQL,DAX",Yes,2026-10-13
+JOB0063,BI Developer,JP Morgan,Bangalore,873060,1,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-13
+JOB0064,Data Analyst,Amazon,Chennai,1588968,6,Technology,"SQL,Excel,Power BI",Hybrid,2026-11-01
+JOB0065,Machine Learning Engineer,Capgemini,Delhi,3199867,9,Technology,"Python,ML,AWS,Spark",No,2026-10-20
+JOB0066,BI Developer,Wipro,Hyderabad,1093883,1,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-17
+JOB0067,Machine Learning Engineer,Oracle,Pune,2976502,7,Technology,"Python,ML,AWS,Spark",No,2026-10-23
+JOB0068,Data Scientist,Adobe,Pune,1607165,5,Technology,"Python,ML,SQL",No,2026-10-28
+JOB0069,Data Engineer,TCS,Delhi,1500631,4,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-12
+JOB0070,Analytics Engineer,Google,Kolkata,2242845,7,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-11
+JOB0071,Machine Learning Engineer,Salesforce,Delhi,3043835,1,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-12
+JOB0072,Cloud Data Engineer,Adobe,Noida,1541263,8,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-13
+JOB0073,Data Scientist,HCL,Bangalore,1580781,6,Technology,"Python,ML,SQL",No,2026-10-19
+JOB0074,Data Engineer,JP Morgan,Pune,1415188,4,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-13
+JOB0075,BI Developer,Amazon,Delhi,1621729,2,Technology,"Power BI,SQL,DAX",Yes,2026-11-08
+JOB0076,Data Scientist,Google,Delhi,2409262,5,Technology,"Python,ML,SQL",No,2026-11-03
+JOB0077,Analytics Engineer,Goldman Sachs,Kolkata,1520642,6,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-12
+JOB0078,BI Developer,Accenture,Pune,1717552,5,Technology,"Power BI,SQL,DAX",Hybrid,2026-11-03
+JOB0079,Data Engineer,Cognizant,Bangalore,2792646,4,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-17
+JOB0080,Analytics Engineer,TCS,Pune,1314208,10,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-12
+JOB0081,Analytics Engineer,Deloitte,Mumbai,2323826,9,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-11-10
+JOB0082,Data Engineer,TCS,Bangalore,1801520,5,Technology,"Python,SQL,Azure,Spark",No,2026-11-01
+JOB0083,BI Developer,Cognizant,Delhi,1486199,9,Technology,"Power BI,SQL,DAX",Yes,2026-10-24
+JOB0084,BI Developer,Wipro,Noida,1757272,4,Technology,"Power BI,SQL,DAX",Yes,2026-10-14
+JOB0085,Machine Learning Engineer,Google,Chennai,2759798,9,Technology,"Python,ML,AWS,Spark",Yes,2026-10-27
+JOB0086,Data Scientist,HCL,Bangalore,1744470,9,Technology,"Python,ML,SQL",Hybrid,2026-10-30
+JOB0087,BI Developer,HCL,Hyderabad,1551404,9,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-27
+JOB0088,BI Developer,Google,Delhi,1162642,1,Technology,"Power BI,SQL,DAX",Yes,2026-10-31
+JOB0089,Machine Learning Engineer,Microsoft,Delhi,1876776,3,Technology,"Python,ML,AWS,Spark",No,2026-10-11
+JOB0090,BI Developer,Infosys,Kolkata,948386,3,Technology,"Power BI,SQL,DAX",Yes,2026-10-17
+JOB0091,Data Scientist,Salesforce,Mumbai,2545862,10,Technology,"Python,ML,SQL",Yes,2026-10-18
+JOB0092,Analytics Engineer,Adobe,Chennai,1375242,8,Technology,"Python,SQL,DBT,Power BI",No,2026-11-07
+JOB0093,Fabric Engineer,Capgemini,Chennai,2724391,9,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-03
+JOB0094,Machine Learning Engineer,Cognizant,Hyderabad,2397918,7,Technology,"Python,ML,AWS,Spark",Yes,2026-10-17
+JOB0095,Data Analyst,Oracle,Delhi,817748,6,Technology,"SQL,Excel,Power BI",Yes,2026-11-04
+JOB0096,Data Engineer,JP Morgan,Bangalore,2438714,10,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-17
+JOB0097,Data Scientist,TCS,Hyderabad,1625365,4,Technology,"Python,ML,SQL",No,2026-11-08
+JOB0098,Data Analyst,Wipro,Pune,818880,4,Technology,"SQL,Excel,Power BI",No,2026-11-03
+JOB0099,Analytics Engineer,JP Morgan,Kolkata,1691055,2,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-25
+JOB0100,Analytics Engineer,Cognizant,Bangalore,1587210,8,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-21
+JOB0101,Cloud Data Engineer,Accenture,Chennai,2538286,3,Technology,"Azure,Python,SQL,Fabric",No,2026-10-23
+JOB0102,Data Analyst,Google,Pune,1596782,6,Technology,"SQL,Excel,Power BI",No,2026-10-25
+JOB0103,Fabric Engineer,TCS,Noida,2699785,10,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-27
+JOB0104,Data Scientist,HCL,Hyderabad,2611286,8,Technology,"Python,ML,SQL",Yes,2026-11-04
+JOB0105,Data Scientist,Goldman Sachs,Mumbai,2580111,10,Technology,"Python,ML,SQL",No,2026-10-28
+JOB0106,BI Developer,Google,Chennai,1268976,3,Technology,"Power BI,SQL,DAX",Yes,2026-10-25
+JOB0107,Cloud Data Engineer,Google,Hyderabad,1935255,10,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-12
+JOB0108,Machine Learning Engineer,Wipro,Delhi,2541150,3,Technology,"Python,ML,AWS,Spark",Yes,2026-10-11
+JOB0109,BI Developer,Cognizant,Hyderabad,1493525,4,Technology,"Power BI,SQL,DAX",No,2026-10-25
+JOB0110,Cloud Data Engineer,Infosys,Hyderabad,2070183,5,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-12
+JOB0111,Machine Learning Engineer,IBM,Pune,2232763,2,Technology,"Python,ML,AWS,Spark",Yes,2026-10-11
+JOB0112,BI Developer,Amazon,Noida,1672919,9,Technology,"Power BI,SQL,DAX",No,2026-10-21
+JOB0113,Cloud Data Engineer,HCL,Noida,1513201,3,Technology,"Azure,Python,SQL,Fabric",No,2026-11-01
+JOB0114,Cloud Data Engineer,Amazon,Mumbai,1986333,5,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-13
+JOB0115,Data Analyst,HCL,Kolkata,751773,4,Technology,"SQL,Excel,Power BI",Yes,2026-10-27
+JOB0116,Data Engineer,JP Morgan,Hyderabad,2187908,9,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-01
+JOB0117,Data Engineer,Accenture,Hyderabad,1385373,5,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-31
+JOB0118,Fabric Engineer,TCS,Mumbai,2979617,5,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-04
+JOB0119,BI Developer,Microsoft,Kolkata,1048016,4,Technology,"Power BI,SQL,DAX",No,2026-10-27
+JOB0120,Data Engineer,Salesforce,Delhi,2770222,7,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-17
+JOB0121,Data Analyst,Infosys,Bangalore,1422648,5,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-20
+JOB0122,Analytics Engineer,Accenture,Kolkata,1347014,3,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-24
+JOB0123,Data Analyst,Infosys,Kolkata,1534595,10,Technology,"SQL,Excel,Power BI",Yes,2026-10-26
+JOB0124,Data Engineer,JP Morgan,Mumbai,2195542,4,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-13
+JOB0125,Data Engineer,Salesforce,Hyderabad,1734147,5,Technology,"Python,SQL,Azure,Spark",No,2026-11-04
+JOB0126,Data Scientist,Wipro,Chennai,2073731,6,Technology,"Python,ML,SQL",Yes,2026-11-08
+JOB0127,BI Developer,HCL,Kolkata,1036298,1,Technology,"Power BI,SQL,DAX",Yes,2026-11-04
+JOB0128,Data Analyst,Wipro,Pune,1429735,2,Technology,"SQL,Excel,Power BI",No,2026-10-19
+JOB0129,Machine Learning Engineer,Deloitte,Delhi,2426401,2,Technology,"Python,ML,AWS,Spark",No,2026-10-16
+JOB0130,Machine Learning Engineer,Deloitte,Mumbai,2057979,6,Technology,"Python,ML,AWS,Spark",Yes,2026-11-06
+JOB0131,BI Developer,Wipro,Hyderabad,1289045,3,Technology,"Power BI,SQL,DAX",Yes,2026-11-01
+JOB0132,Machine Learning Engineer,Amazon,Pune,1615461,8,Technology,"Python,ML,AWS,Spark",Hybrid,2026-11-08
+JOB0133,Data Engineer,Google,Delhi,1340683,9,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-11-05
+JOB0134,Cloud Data Engineer,Cognizant,Noida,2929275,6,Technology,"Azure,Python,SQL,Fabric",No,2026-10-20
+JOB0135,BI Developer,IBM,Mumbai,1605145,10,Technology,"Power BI,SQL,DAX",No,2026-10-24
+JOB0136,Machine Learning Engineer,JP Morgan,Hyderabad,2155138,1,Technology,"Python,ML,AWS,Spark",Yes,2026-11-08
+JOB0137,Machine Learning Engineer,Adobe,Chennai,2149289,10,Technology,"Python,ML,AWS,Spark",Yes,2026-10-24
+JOB0138,Analytics Engineer,Salesforce,Hyderabad,1681446,2,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-14
+JOB0139,Fabric Engineer,TCS,Kolkata,2677192,4,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-11-06
+JOB0140,Fabric Engineer,Wipro,Kolkata,2790214,8,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-15
+JOB0141,Machine Learning Engineer,Deloitte,Bangalore,1724435,4,Technology,"Python,ML,AWS,Spark",Yes,2026-10-21
+JOB0142,BI Developer,JP Morgan,Chennai,933653,8,Technology,"Power BI,SQL,DAX",Hybrid,2026-11-08
+JOB0143,Cloud Data Engineer,Deloitte,Kolkata,1829571,4,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-13
+JOB0144,Data Engineer,JP Morgan,Chennai,1603050,8,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-11-01
+JOB0145,Analytics Engineer,Infosys,Pune,1767696,3,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-28
+JOB0146,Fabric Engineer,IBM,Pune,1934696,1,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-09
+JOB0147,Analytics Engineer,Accenture,Delhi,1941465,2,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-14
+JOB0148,Data Scientist,JP Morgan,Mumbai,2147318,2,Technology,"Python,ML,SQL",No,2026-10-21
+JOB0149,Cloud Data Engineer,IBM,Hyderabad,2632090,7,Technology,"Azure,Python,SQL,Fabric",No,2026-10-29
+JOB0150,Data Scientist,Oracle,Delhi,2580159,7,Technology,"Python,ML,SQL",Yes,2026-10-31
+JOB0151,Machine Learning Engineer,Accenture,Mumbai,1910929,10,Technology,"Python,ML,AWS,Spark",No,2026-10-21
+JOB0152,Cloud Data Engineer,IBM,Bangalore,2369309,2,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-05
+JOB0153,Analytics Engineer,Wipro,Mumbai,1355551,3,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-29
+JOB0154,Data Engineer,TCS,Mumbai,1900661,6,Technology,"Python,SQL,Azure,Spark",No,2026-11-09
+JOB0155,Machine Learning Engineer,TCS,Noida,2426079,7,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-31
+JOB0156,Fabric Engineer,Microsoft,Kolkata,2102059,8,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-25
+JOB0157,Machine Learning Engineer,IBM,Noida,3098391,6,Technology,"Python,ML,AWS,Spark",Yes,2026-10-27
+JOB0158,Cloud Data Engineer,Wipro,Chennai,1894531,5,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-30
+JOB0159,Fabric Engineer,Infosys,Hyderabad,1987953,7,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-16
+JOB0160,Cloud Data Engineer,Capgemini,Noida,2136518,3,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-13
+JOB0161,Data Scientist,HCL,Noida,2446943,9,Technology,"Python,ML,SQL",Hybrid,2026-10-22
+JOB0162,Machine Learning Engineer,TCS,Kolkata,1712025,8,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-21
+JOB0163,Machine Learning Engineer,HCL,Mumbai,2981503,10,Technology,"Python,ML,AWS,Spark",Yes,2026-10-31
+JOB0164,Data Analyst,TCS,Pune,1132398,1,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-30
+JOB0165,Fabric Engineer,JP Morgan,Noida,1867929,8,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-07
+JOB0166,Data Engineer,Accenture,Mumbai,2011255,5,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-06
+JOB0167,Data Analyst,Capgemini,Hyderabad,1293113,4,Technology,"SQL,Excel,Power BI",No,2026-10-25
+JOB0168,Analytics Engineer,JP Morgan,Noida,1384876,9,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-11-03
+JOB0169,Machine Learning Engineer,Amazon,Pune,1949192,9,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-16
+JOB0170,Data Analyst,Accenture,Noida,1121411,2,Technology,"SQL,Excel,Power BI",Yes,2026-11-08
+JOB0171,Data Analyst,Adobe,Kolkata,1562604,9,Technology,"SQL,Excel,Power BI",No,2026-10-18
+JOB0172,Analytics Engineer,IBM,Bangalore,1839394,7,Technology,"Python,SQL,DBT,Power BI",Yes,2026-11-08
+JOB0173,Data Analyst,Amazon,Hyderabad,1451508,4,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-16
+JOB0174,Analytics Engineer,Google,Pune,2328113,3,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-20
+JOB0175,Analytics Engineer,Infosys,Bangalore,1972856,6,Technology,"Python,SQL,DBT,Power BI",No,2026-10-18
+JOB0176,Fabric Engineer,Salesforce,Mumbai,3442589,3,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-31
+JOB0177,Data Scientist,Amazon,Mumbai,1851191,8,Technology,"Python,ML,SQL",No,2026-10-26
+JOB0178,BI Developer,Capgemini,Mumbai,1751536,4,Technology,"Power BI,SQL,DAX",Yes,2026-11-07
+JOB0179,Cloud Data Engineer,Deloitte,Hyderabad,2595532,6,Technology,"Azure,Python,SQL,Fabric",Yes,2026-11-01
+JOB0180,Cloud Data Engineer,Cognizant,Hyderabad,2747942,6,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-29
+JOB0181,Data Scientist,Goldman Sachs,Kolkata,2497938,7,Technology,"Python,ML,SQL",No,2026-11-05
+JOB0182,Data Analyst,HCL,Mumbai,943548,9,Technology,"SQL,Excel,Power BI",No,2026-10-20
+JOB0183,Data Engineer,Microsoft,Kolkata,2021684,2,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-27
+JOB0184,Fabric Engineer,Google,Pune,2203790,10,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-11-06
+JOB0185,Machine Learning Engineer,Capgemini,Noida,1846998,3,Technology,"Python,ML,AWS,Spark",No,2026-11-02
+JOB0186,Analytics Engineer,Cognizant,Noida,2032613,6,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-26
+JOB0187,Data Scientist,Oracle,Hyderabad,2119653,3,Technology,"Python,ML,SQL",No,2026-10-27
+JOB0188,Cloud Data Engineer,Deloitte,Chennai,2384751,10,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-06
+JOB0189,BI Developer,TCS,Delhi,1489939,5,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-11
+JOB0190,Analytics Engineer,Salesforce,Mumbai,1736712,6,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-11-05
+JOB0191,Cloud Data Engineer,Adobe,Mumbai,2135088,4,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-07
+JOB0192,Data Scientist,Deloitte,Hyderabad,1759195,6,Technology,"Python,ML,SQL",No,2026-10-20
+JOB0193,Cloud Data Engineer,Google,Delhi,1681213,2,Technology,"Azure,Python,SQL,Fabric",No,2026-11-02
+JOB0194,Fabric Engineer,Cognizant,Noida,2459320,9,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-21
+JOB0195,Fabric Engineer,Google,Bangalore,2407435,5,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-29
+JOB0196,Fabric Engineer,Capgemini,Kolkata,2669675,6,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-27
+JOB0197,Analytics Engineer,Wipro,Kolkata,1262188,1,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-27
+JOB0198,Fabric Engineer,JP Morgan,Chennai,1970271,7,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-11-05
+JOB0199,Data Analyst,HCL,Hyderabad,1150579,2,Technology,"SQL,Excel,Power BI",No,2026-11-07
+JOB0200,Cloud Data Engineer,Google,Bangalore,2203109,1,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-23
+JOB0201,Machine Learning Engineer,IBM,Delhi,1759140,4,Technology,"Python,ML,AWS,Spark",No,2026-10-19
+JOB0202,Analytics Engineer,Adobe,Mumbai,1614957,5,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-22
+JOB0203,Data Scientist,Salesforce,Noida,2045189,4,Technology,"Python,ML,SQL",Yes,2026-10-18
+JOB0204,Data Scientist,Infosys,Hyderabad,1477968,1,Technology,"Python,ML,SQL",No,2026-11-01
+JOB0205,Fabric Engineer,Capgemini,Noida,2587046,2,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-11-04
+JOB0206,Data Scientist,Wipro,Kolkata,2506977,2,Technology,"Python,ML,SQL",Yes,2026-10-12
+JOB0207,BI Developer,HCL,Noida,1068707,9,Technology,"Power BI,SQL,DAX",Yes,2026-10-24
+JOB0208,BI Developer,Wipro,Delhi,1184037,9,Technology,"Power BI,SQL,DAX",No,2026-11-03
+JOB0209,Cloud Data Engineer,Oracle,Hyderabad,2932844,5,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-18
+JOB0210,BI Developer,Goldman Sachs,Mumbai,1109955,10,Technology,"Power BI,SQL,DAX",Yes,2026-10-13
+JOB0211,Fabric Engineer,Deloitte,Noida,2321064,7,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-11-08
+JOB0212,Cloud Data Engineer,Goldman Sachs,Pune,2176616,1,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-14
+JOB0213,BI Developer,TCS,Pune,1293408,10,Technology,"Power BI,SQL,DAX",No,2026-10-21
+JOB0214,Cloud Data Engineer,Infosys,Bangalore,2986401,1,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-03
+JOB0215,BI Developer,IBM,Chennai,891496,3,Technology,"Power BI,SQL,DAX",Yes,2026-11-04
+JOB0216,Data Engineer,IBM,Bangalore,1702532,6,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-13
+JOB0217,Data Engineer,Infosys,Pune,2383143,10,Technology,"Python,SQL,Azure,Spark",No,2026-10-12
+JOB0218,Fabric Engineer,Amazon,Bangalore,2031932,2,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-18
+JOB0219,Cloud Data Engineer,Accenture,Delhi,2823359,2,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-08
+JOB0220,Cloud Data Engineer,Wipro,Chennai,2632728,3,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-04
+JOB0221,Analytics Engineer,Microsoft,Delhi,2038656,2,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-17
+JOB0222,Fabric Engineer,Microsoft,Noida,3213171,10,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-16
+JOB0223,Fabric Engineer,Amazon,Mumbai,1840888,4,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-20
+JOB0224,Analytics Engineer,Deloitte,Bangalore,2374350,3,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-13
+JOB0225,Cloud Data Engineer,IBM,Chennai,2839119,1,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-29
+JOB0226,Analytics Engineer,Wipro,Delhi,1335047,3,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-30
+JOB0227,Fabric Engineer,Accenture,Mumbai,2087680,5,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-28
+JOB0228,Data Scientist,Adobe,Bangalore,2606480,6,Technology,"Python,ML,SQL",No,2026-10-23
+JOB0229,Data Analyst,Salesforce,Noida,1379369,3,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-12
+JOB0230,Fabric Engineer,Wipro,Chennai,2819870,7,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-08
+JOB0231,Data Scientist,Salesforce,Hyderabad,1518909,4,Technology,"Python,ML,SQL",No,2026-10-29
+JOB0232,Data Engineer,Capgemini,Kolkata,1564238,7,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-19
+JOB0233,Data Scientist,Adobe,Delhi,2181933,10,Technology,"Python,ML,SQL",No,2026-10-12
+JOB0234,BI Developer,Cognizant,Chennai,1308125,6,Technology,"Power BI,SQL,DAX",No,2026-10-19
+JOB0235,Machine Learning Engineer,Amazon,Bangalore,3181859,6,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-31
+JOB0236,Analytics Engineer,Wipro,Pune,2130652,3,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-25
+JOB0237,Fabric Engineer,Cognizant,Delhi,1896896,10,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-07
+JOB0238,Cloud Data Engineer,Accenture,Kolkata,2203493,10,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-17
+JOB0239,Fabric Engineer,Cognizant,Kolkata,2713479,1,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-23
+JOB0240,Data Engineer,Infosys,Chennai,2490591,5,Technology,"Python,SQL,Azure,Spark",No,2026-10-12
+JOB0241,Analytics Engineer,Infosys,Chennai,2320789,2,Technology,"Python,SQL,DBT,Power BI",No,2026-10-29
+JOB0242,Analytics Engineer,Cognizant,Pune,1550463,8,Technology,"Python,SQL,DBT,Power BI",No,2026-11-07
+JOB0243,BI Developer,Microsoft,Kolkata,1129185,1,Technology,"Power BI,SQL,DAX",No,2026-10-13
+JOB0244,Fabric Engineer,Accenture,Hyderabad,3435953,10,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-23
+JOB0245,Machine Learning Engineer,Infosys,Kolkata,2558136,5,Technology,"Python,ML,AWS,Spark",Yes,2026-10-14
+JOB0246,Data Scientist,Amazon,Noida,2048709,5,Technology,"Python,ML,SQL",Hybrid,2026-10-12
+JOB0247,Data Engineer,Goldman Sachs,Kolkata,2092040,3,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-11-05
+JOB0248,Data Analyst,Oracle,Bangalore,703709,3,Technology,"SQL,Excel,Power BI",No,2026-10-18
+JOB0249,Data Analyst,Deloitte,Kolkata,1338991,5,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-19
+JOB0250,Data Analyst,Cognizant,Delhi,766630,4,Technology,"SQL,Excel,Power BI",No,2026-11-05
+JOB0251,Cloud Data Engineer,Capgemini,Mumbai,1955238,6,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-17
+JOB0252,Data Analyst,IBM,Hyderabad,752443,9,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-13
+JOB0253,Analytics Engineer,Deloitte,Bangalore,2363572,9,Technology,"Python,SQL,DBT,Power BI",No,2026-11-07
+JOB0254,BI Developer,Google,Noida,989749,2,Technology,"Power BI,SQL,DAX",No,2026-10-27
+JOB0255,Machine Learning Engineer,Oracle,Hyderabad,3088462,1,Technology,"Python,ML,AWS,Spark",No,2026-10-17
+JOB0256,Fabric Engineer,Salesforce,Hyderabad,2195850,7,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-22
+JOB0257,Fabric Engineer,Accenture,Kolkata,3251943,7,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-29
+JOB0258,Data Analyst,Deloitte,Kolkata,1401232,3,Technology,"SQL,Excel,Power BI",Yes,2026-10-17
+JOB0259,Data Scientist,Cognizant,Hyderabad,2943450,8,Technology,"Python,ML,SQL",No,2026-10-25
+JOB0260,Fabric Engineer,Cognizant,Hyderabad,2141936,6,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-09
+JOB0261,BI Developer,Goldman Sachs,Hyderabad,1661692,9,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-21
+JOB0262,Machine Learning Engineer,Amazon,Chennai,2064425,1,Technology,"Python,ML,AWS,Spark",Yes,2026-10-31
+JOB0263,Data Engineer,Google,Delhi,1261032,1,Technology,"Python,SQL,Azure,Spark",No,2026-10-19
+JOB0264,Data Engineer,Goldman Sachs,Kolkata,2074007,5,Technology,"Python,SQL,Azure,Spark",No,2026-10-21
+JOB0265,Analytics Engineer,TCS,Chennai,1383491,8,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-11-03
+JOB0266,BI Developer,Google,Bangalore,1582546,7,Technology,"Power BI,SQL,DAX",Yes,2026-11-01
+JOB0267,Cloud Data Engineer,IBM,Kolkata,2796816,4,Technology,"Azure,Python,SQL,Fabric",No,2026-11-09
+JOB0268,Data Analyst,TCS,Noida,1484942,8,Technology,"SQL,Excel,Power BI",Yes,2026-10-11
+JOB0269,Data Engineer,Infosys,Kolkata,2599772,10,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-11-09
+JOB0270,Data Engineer,HCL,Noida,1525057,6,Technology,"Python,SQL,Azure,Spark",No,2026-10-23
+JOB0271,BI Developer,Salesforce,Mumbai,1602165,4,Technology,"Power BI,SQL,DAX",Yes,2026-10-20
+JOB0272,Fabric Engineer,Deloitte,Noida,2027946,5,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-30
+JOB0273,Machine Learning Engineer,Microsoft,Mumbai,2928218,4,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-15
+JOB0274,BI Developer,HCL,Chennai,1681252,3,Technology,"Power BI,SQL,DAX",Hybrid,2026-11-08
+JOB0275,Data Scientist,Accenture,Bangalore,2996321,9,Technology,"Python,ML,SQL",No,2026-10-30
+JOB0276,Data Analyst,Salesforce,Bangalore,955855,6,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-13
+JOB0277,Analytics Engineer,JP Morgan,Chennai,2013142,6,Technology,"Python,SQL,DBT,Power BI",No,2026-10-26
+JOB0278,Analytics Engineer,JP Morgan,Kolkata,2382496,1,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-11-10
+JOB0279,Data Engineer,Salesforce,Bangalore,1717227,7,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-11-01
+JOB0280,BI Developer,Deloitte,Mumbai,1061738,10,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-12
+JOB0281,BI Developer,Oracle,Pune,1547934,10,Technology,"Power BI,SQL,DAX",No,2026-11-02
+JOB0282,Data Analyst,Deloitte,Pune,1291893,2,Technology,"SQL,Excel,Power BI",Hybrid,2026-11-02
+JOB0283,Data Engineer,IBM,Hyderabad,1741461,7,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-18
+JOB0284,Fabric Engineer,Salesforce,Kolkata,3377280,4,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-28
+JOB0285,Fabric Engineer,Salesforce,Kolkata,2089898,7,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-25
+JOB0286,Analytics Engineer,HCL,Mumbai,2158993,4,Technology,"Python,SQL,DBT,Power BI",No,2026-11-07
+JOB0287,Machine Learning Engineer,Amazon,Delhi,1829625,1,Technology,"Python,ML,AWS,Spark",Yes,2026-10-13
+JOB0288,BI Developer,Capgemini,Kolkata,1616379,6,Technology,"Power BI,SQL,DAX",No,2026-10-30
+JOB0289,Data Scientist,Oracle,Kolkata,2799688,8,Technology,"Python,ML,SQL",No,2026-11-05
+JOB0290,Fabric Engineer,Cognizant,Bangalore,3246545,7,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-15
+JOB0291,Analytics Engineer,Goldman Sachs,Chennai,1994853,8,Technology,"Python,SQL,DBT,Power BI",No,2026-10-28
+JOB0292,Data Engineer,Microsoft,Delhi,1355973,1,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-29
+JOB0293,Fabric Engineer,IBM,Noida,3382315,6,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-21
+JOB0294,Cloud Data Engineer,Cognizant,Delhi,1825624,10,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-24
+JOB0295,Fabric Engineer,Wipro,Chennai,3266963,8,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-29
+JOB0296,Data Analyst,Wipro,Mumbai,947198,10,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-18
+JOB0297,Analytics Engineer,Wipro,Mumbai,1413916,2,Technology,"Python,SQL,DBT,Power BI",Yes,2026-11-01
+JOB0298,Data Scientist,IBM,Bangalore,1931890,10,Technology,"Python,ML,SQL",Yes,2026-10-14
+JOB0299,Fabric Engineer,Adobe,Bangalore,3441581,2,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-31
+JOB0300,BI Developer,HCL,Delhi,1188553,4,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-30
+JOB0301,Data Engineer,Amazon,Noida,1835480,5,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-14
+JOB0302,Cloud Data Engineer,Salesforce,Kolkata,1636954,4,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-25
+JOB0303,Data Analyst,Adobe,Noida,910022,8,Technology,"SQL,Excel,Power BI",No,2026-11-01
+JOB0304,Analytics Engineer,TCS,Pune,1502513,6,Technology,"Python,SQL,DBT,Power BI",Yes,2026-11-09
+JOB0305,Fabric Engineer,IBM,Chennai,2887300,3,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-21
+JOB0306,Machine Learning Engineer,Amazon,Chennai,2786759,3,Technology,"Python,ML,AWS,Spark",No,2026-10-28
+JOB0307,Cloud Data Engineer,Oracle,Mumbai,2104761,7,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-23
+JOB0308,Data Scientist,Deloitte,Noida,1517493,2,Technology,"Python,ML,SQL",No,2026-11-08
+JOB0309,Fabric Engineer,Accenture,Delhi,3180816,6,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-01
+JOB0310,Machine Learning Engineer,TCS,Hyderabad,2495648,5,Technology,"Python,ML,AWS,Spark",Yes,2026-10-23
+JOB0311,BI Developer,Microsoft,Kolkata,1412613,4,Technology,"Power BI,SQL,DAX",Yes,2026-11-09
+JOB0312,BI Developer,Wipro,Hyderabad,1289770,9,Technology,"Power BI,SQL,DAX",Yes,2026-10-15
+JOB0313,Data Analyst,Oracle,Noida,897289,3,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-16
+JOB0314,Data Scientist,Capgemini,Hyderabad,1904297,9,Technology,"Python,ML,SQL",Hybrid,2026-10-14
+JOB0315,Fabric Engineer,IBM,Delhi,2220868,6,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-08
+JOB0316,Analytics Engineer,Infosys,Pune,1479443,7,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-27
+JOB0317,Data Analyst,Google,Kolkata,967132,6,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-17
+JOB0318,Cloud Data Engineer,Wipro,Kolkata,2290559,3,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-27
+JOB0319,Machine Learning Engineer,Amazon,Noida,3087894,3,Technology,"Python,ML,AWS,Spark",Yes,2026-10-19
+JOB0320,Data Engineer,TCS,Noida,1575791,6,Technology,"Python,SQL,Azure,Spark",No,2026-11-08
+JOB0321,Cloud Data Engineer,Capgemini,Kolkata,1843451,6,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-11
+JOB0322,Data Analyst,Microsoft,Bangalore,865379,2,Technology,"SQL,Excel,Power BI",No,2026-11-08
+JOB0323,Cloud Data Engineer,IBM,Kolkata,2205227,5,Technology,"Azure,Python,SQL,Fabric",No,2026-10-14
+JOB0324,Machine Learning Engineer,Capgemini,Bangalore,2424859,9,Technology,"Python,ML,AWS,Spark",Yes,2026-10-23
+JOB0325,Data Engineer,Goldman Sachs,Chennai,2369028,3,Technology,"Python,SQL,Azure,Spark",No,2026-11-06
+JOB0326,BI Developer,JP Morgan,Noida,1563811,10,Technology,"Power BI,SQL,DAX",Yes,2026-11-02
+JOB0327,Fabric Engineer,Amazon,Noida,2075846,1,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-18
+JOB0328,Data Scientist,JP Morgan,Pune,1794405,2,Technology,"Python,ML,SQL",No,2026-11-09
+JOB0329,Data Scientist,Wipro,Delhi,1830300,1,Technology,"Python,ML,SQL",No,2026-11-02
+JOB0330,Analytics Engineer,Goldman Sachs,Chennai,1988106,4,Technology,"Python,SQL,DBT,Power BI",No,2026-11-04
+JOB0331,Data Analyst,Amazon,Chennai,741449,4,Technology,"SQL,Excel,Power BI",Hybrid,2026-11-10
+JOB0332,BI Developer,JP Morgan,Chennai,1509999,10,Technology,"Power BI,SQL,DAX",No,2026-10-30
+JOB0333,Data Scientist,Goldman Sachs,Hyderabad,2337522,9,Technology,"Python,ML,SQL",Yes,2026-10-13
+JOB0334,BI Developer,JP Morgan,Bangalore,1401157,9,Technology,"Power BI,SQL,DAX",Yes,2026-11-03
+JOB0335,Machine Learning Engineer,Wipro,Hyderabad,2979787,3,Technology,"Python,ML,AWS,Spark",Yes,2026-10-20
+JOB0336,Cloud Data Engineer,Accenture,Kolkata,2444046,8,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-31
+JOB0337,Machine Learning Engineer,Goldman Sachs,Delhi,2598131,3,Technology,"Python,ML,AWS,Spark",No,2026-11-05
+JOB0338,Data Scientist,Oracle,Chennai,2501537,10,Technology,"Python,ML,SQL",Hybrid,2026-11-09
+JOB0339,Data Engineer,Amazon,Noida,2346070,8,Technology,"Python,SQL,Azure,Spark",No,2026-11-03
+JOB0340,Data Scientist,Cognizant,Chennai,1594748,5,Technology,"Python,ML,SQL",Hybrid,2026-10-19
+JOB0341,Machine Learning Engineer,JP Morgan,Kolkata,1617903,1,Technology,"Python,ML,AWS,Spark",No,2026-10-19
+JOB0342,Data Engineer,Microsoft,Delhi,2581822,5,Technology,"Python,SQL,Azure,Spark",No,2026-11-10
+JOB0343,Data Scientist,Adobe,Delhi,2498695,8,Technology,"Python,ML,SQL",No,2026-10-15
+JOB0344,Cloud Data Engineer,Google,Kolkata,1719788,7,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-09
+JOB0345,Data Analyst,HCL,Mumbai,1386949,9,Technology,"SQL,Excel,Power BI",No,2026-11-09
+JOB0346,Machine Learning Engineer,Infosys,Kolkata,1849520,4,Technology,"Python,ML,AWS,Spark",Hybrid,2026-11-04
+JOB0347,Data Scientist,Accenture,Kolkata,1455039,5,Technology,"Python,ML,SQL",Hybrid,2026-11-01
+JOB0348,Machine Learning Engineer,Infosys,Kolkata,1882856,5,Technology,"Python,ML,AWS,Spark",No,2026-11-09
+JOB0349,BI Developer,Oracle,Mumbai,1656957,2,Technology,"Power BI,SQL,DAX",Hybrid,2026-11-01
+JOB0350,BI Developer,Microsoft,Kolkata,1652749,7,Technology,"Power BI,SQL,DAX",Yes,2026-10-26
+JOB0351,Data Analyst,Adobe,Pune,1438238,4,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-17
+JOB0352,Cloud Data Engineer,HCL,Chennai,2795161,8,Technology,"Azure,Python,SQL,Fabric",No,2026-11-08
+JOB0353,Machine Learning Engineer,Capgemini,Bangalore,2751783,5,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-25
+JOB0354,BI Developer,IBM,Pune,1672730,9,Technology,"Power BI,SQL,DAX",Hybrid,2026-11-03
+JOB0355,Analytics Engineer,Accenture,Pune,2337077,9,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-20
+JOB0356,Fabric Engineer,Wipro,Delhi,2727346,10,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-26
+JOB0357,Data Analyst,HCL,Hyderabad,1477883,10,Technology,"SQL,Excel,Power BI",Hybrid,2026-11-01
+JOB0358,Data Engineer,Goldman Sachs,Mumbai,2798804,10,Technology,"Python,SQL,Azure,Spark",No,2026-11-04
+JOB0359,Data Engineer,TCS,Delhi,1223948,4,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-05
+JOB0360,BI Developer,HCL,Pune,1507579,4,Technology,"Power BI,SQL,DAX",Yes,2026-10-13
+JOB0361,Fabric Engineer,Cognizant,Kolkata,2756453,4,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-04
+JOB0362,Machine Learning Engineer,Oracle,Chennai,2967195,10,Technology,"Python,ML,AWS,Spark",Yes,2026-11-01
+JOB0363,Analytics Engineer,Oracle,Pune,2109104,10,Technology,"Python,SQL,DBT,Power BI",No,2026-11-08
+JOB0364,BI Developer,JP Morgan,Delhi,1410977,7,Technology,"Power BI,SQL,DAX",Yes,2026-10-29
+JOB0365,Machine Learning Engineer,Oracle,Noida,1786664,4,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-31
+JOB0366,Data Scientist,Amazon,Mumbai,2913430,7,Technology,"Python,ML,SQL",No,2026-10-14
+JOB0367,Data Engineer,TCS,Bangalore,1975773,2,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-08
+JOB0368,Data Engineer,Accenture,Noida,1422816,2,Technology,"Python,SQL,Azure,Spark",No,2026-10-27
+JOB0369,Data Engineer,Google,Noida,1771101,6,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-31
+JOB0370,Cloud Data Engineer,Salesforce,Bangalore,1527150,7,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-22
+JOB0371,Cloud Data Engineer,Wipro,Noida,2444047,2,Technology,"Azure,Python,SQL,Fabric",No,2026-11-06
+JOB0372,Data Engineer,Deloitte,Hyderabad,1249175,4,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-15
+JOB0373,Data Engineer,Google,Delhi,2368147,1,Technology,"Python,SQL,Azure,Spark",No,2026-10-19
+JOB0374,Data Scientist,HCL,Kolkata,1555364,6,Technology,"Python,ML,SQL",Hybrid,2026-10-22
+JOB0375,Data Scientist,Infosys,Noida,1812484,8,Technology,"Python,ML,SQL",Hybrid,2026-10-18
+JOB0376,Data Scientist,TCS,Bangalore,2444027,9,Technology,"Python,ML,SQL",No,2026-10-27
+JOB0377,Data Analyst,Capgemini,Mumbai,1324903,7,Technology,"SQL,Excel,Power BI",Yes,2026-10-28
+JOB0378,BI Developer,Amazon,Hyderabad,1070122,5,Technology,"Power BI,SQL,DAX",Yes,2026-10-22
+JOB0379,Machine Learning Engineer,JP Morgan,Hyderabad,3076927,7,Technology,"Python,ML,AWS,Spark",Yes,2026-11-10
+JOB0380,Data Analyst,Deloitte,Noida,924672,5,Technology,"SQL,Excel,Power BI",No,2026-10-23
+JOB0381,Cloud Data Engineer,Amazon,Delhi,2482064,10,Technology,"Azure,Python,SQL,Fabric",No,2026-10-23
+JOB0382,Analytics Engineer,Amazon,Bangalore,1486655,7,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-11
+JOB0383,BI Developer,TCS,Noida,1390306,10,Technology,"Power BI,SQL,DAX",No,2026-10-23
+JOB0384,Data Scientist,Google,Chennai,2603110,2,Technology,"Python,ML,SQL",Yes,2026-10-18
+JOB0385,Data Engineer,JP Morgan,Bangalore,1943467,1,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-09
+JOB0386,Data Scientist,Oracle,Noida,2873233,9,Technology,"Python,ML,SQL",Hybrid,2026-11-02
+JOB0387,BI Developer,Infosys,Pune,1029300,9,Technology,"Power BI,SQL,DAX",Yes,2026-11-02
+JOB0388,Fabric Engineer,Salesforce,Kolkata,3172369,6,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-14
+JOB0389,BI Developer,JP Morgan,Noida,1341756,4,Technology,"Power BI,SQL,DAX",Yes,2026-10-16
+JOB0390,Analytics Engineer,Deloitte,Kolkata,1278181,1,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-28
+JOB0391,Data Engineer,TCS,Delhi,1299361,10,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-11-02
+JOB0392,BI Developer,Adobe,Kolkata,1044815,6,Technology,"Power BI,SQL,DAX",No,2026-10-26
+JOB0393,Fabric Engineer,Infosys,Bangalore,2173187,1,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-19
+JOB0394,Data Engineer,Accenture,Hyderabad,1698838,8,Technology,"Python,SQL,Azure,Spark",No,2026-11-09
+JOB0395,Machine Learning Engineer,IBM,Bangalore,1810721,7,Technology,"Python,ML,AWS,Spark",Yes,2026-10-27
+JOB0396,Machine Learning Engineer,Capgemini,Noida,2977817,6,Technology,"Python,ML,AWS,Spark",Yes,2026-11-06
+JOB0397,Analytics Engineer,Goldman Sachs,Kolkata,1593163,4,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-23
+JOB0398,Analytics Engineer,Adobe,Pune,1520612,8,Technology,"Python,SQL,DBT,Power BI",Yes,2026-11-04
+JOB0399,Data Scientist,Wipro,Hyderabad,1907727,8,Technology,"Python,ML,SQL",No,2026-10-26
+JOB0400,Fabric Engineer,IBM,Chennai,2181178,3,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-11-04
+JOB0401,Data Scientist,Infosys,Mumbai,2098246,8,Technology,"Python,ML,SQL",No,2026-10-24
+JOB0402,Data Analyst,Salesforce,Chennai,1348976,9,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-15
+JOB0403,Data Analyst,IBM,Noida,954569,5,Technology,"SQL,Excel,Power BI",No,2026-11-04
+JOB0404,Cloud Data Engineer,Accenture,Kolkata,2589206,3,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-16
+JOB0405,BI Developer,Goldman Sachs,Kolkata,1459079,7,Technology,"Power BI,SQL,DAX",Yes,2026-11-04
+JOB0406,Machine Learning Engineer,Deloitte,Mumbai,2287350,8,Technology,"Python,ML,AWS,Spark",Yes,2026-11-04
+JOB0407,Data Engineer,IBM,Pune,2686142,4,Technology,"Python,SQL,Azure,Spark",No,2026-10-19
+JOB0408,Data Engineer,JP Morgan,Bangalore,2600199,8,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-20
+JOB0409,Fabric Engineer,JP Morgan,Mumbai,3067459,10,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-11-06
+JOB0410,Cloud Data Engineer,Accenture,Noida,2352522,1,Technology,"Azure,Python,SQL,Fabric",No,2026-10-14
+JOB0411,Analytics Engineer,Wipro,Noida,2181205,7,Technology,"Python,SQL,DBT,Power BI",Yes,2026-10-24
+JOB0412,Machine Learning Engineer,Goldman Sachs,Noida,1968260,8,Technology,"Python,ML,AWS,Spark",Yes,2026-10-26
+JOB0413,BI Developer,Oracle,Pune,1350208,6,Technology,"Power BI,SQL,DAX",No,2026-11-01
+JOB0414,BI Developer,JP Morgan,Hyderabad,1679837,5,Technology,"Power BI,SQL,DAX",Yes,2026-10-25
+JOB0415,Machine Learning Engineer,Oracle,Hyderabad,2146930,1,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-24
+JOB0416,Fabric Engineer,Amazon,Pune,3067211,5,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-21
+JOB0417,Data Analyst,Infosys,Kolkata,1216367,4,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-20
+JOB0418,Data Analyst,Amazon,Pune,1147284,8,Technology,"SQL,Excel,Power BI",Hybrid,2026-11-05
+JOB0419,Data Engineer,TCS,Delhi,2070052,9,Technology,"Python,SQL,Azure,Spark",No,2026-11-01
+JOB0420,Fabric Engineer,Microsoft,Chennai,2137336,1,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-11
+JOB0421,Machine Learning Engineer,Microsoft,Noida,1607698,10,Technology,"Python,ML,AWS,Spark",Hybrid,2026-11-08
+JOB0422,Cloud Data Engineer,Infosys,Hyderabad,1527743,6,Technology,"Azure,Python,SQL,Fabric",No,2026-10-16
+JOB0423,Analytics Engineer,Accenture,Noida,1714978,5,Technology,"Python,SQL,DBT,Power BI",No,2026-10-30
+JOB0424,Data Scientist,Amazon,Chennai,1650374,6,Technology,"Python,ML,SQL",Hybrid,2026-11-06
+JOB0425,Data Analyst,Google,Noida,1459855,10,Technology,"SQL,Excel,Power BI",Yes,2026-10-11
+JOB0426,Cloud Data Engineer,Amazon,Delhi,2090808,6,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-18
+JOB0427,BI Developer,Adobe,Bangalore,813506,6,Technology,"Power BI,SQL,DAX",Yes,2026-10-11
+JOB0428,Analytics Engineer,IBM,Bangalore,1998522,5,Technology,"Python,SQL,DBT,Power BI",No,2026-10-11
+JOB0429,Data Analyst,Deloitte,Delhi,759971,9,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-18
+JOB0430,Cloud Data Engineer,HCL,Kolkata,2793099,7,Technology,"Azure,Python,SQL,Fabric",Yes,2026-11-06
+JOB0431,Machine Learning Engineer,Microsoft,Mumbai,2415823,5,Technology,"Python,ML,AWS,Spark",Hybrid,2026-11-10
+JOB0432,Data Engineer,Cognizant,Pune,2128658,8,Technology,"Python,SQL,Azure,Spark",No,2026-10-23
+JOB0433,Analytics Engineer,Google,Delhi,1575883,7,Technology,"Python,SQL,DBT,Power BI",No,2026-10-31
+JOB0434,Data Scientist,Cognizant,Hyderabad,2967247,3,Technology,"Python,ML,SQL",Hybrid,2026-10-28
+JOB0435,Data Engineer,Accenture,Mumbai,2382368,6,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-02
+JOB0436,BI Developer,Accenture,Mumbai,1717650,4,Technology,"Power BI,SQL,DAX",No,2026-11-06
+JOB0437,BI Developer,Goldman Sachs,Mumbai,1737831,6,Technology,"Power BI,SQL,DAX",Yes,2026-10-11
+JOB0438,Data Analyst,Infosys,Chennai,878077,4,Technology,"SQL,Excel,Power BI",Hybrid,2026-11-06
+JOB0439,Machine Learning Engineer,Wipro,Mumbai,3126006,3,Technology,"Python,ML,AWS,Spark",Yes,2026-10-15
+JOB0440,Analytics Engineer,Salesforce,Chennai,2176123,5,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-31
+JOB0441,Machine Learning Engineer,Google,Kolkata,1770503,8,Technology,"Python,ML,AWS,Spark",Yes,2026-11-10
+JOB0442,Data Engineer,Microsoft,Pune,2215689,6,Technology,"Python,SQL,Azure,Spark",Yes,2026-11-05
+JOB0443,Fabric Engineer,Oracle,Pune,3032544,5,Technology,"Microsoft Fabric,SQL,Power BI",No,2026-10-12
+JOB0444,Fabric Engineer,Infosys,Bangalore,2241552,4,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-11-03
+JOB0445,Cloud Data Engineer,Amazon,Chennai,2995380,8,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-15
+JOB0446,BI Developer,Capgemini,Pune,1445834,2,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-11
+JOB0447,BI Developer,Capgemini,Noida,1075913,1,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-25
+JOB0448,Data Engineer,IBM,Mumbai,1829899,5,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-14
+JOB0449,Fabric Engineer,Accenture,Chennai,2466044,5,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-02
+JOB0450,Cloud Data Engineer,HCL,Pune,2082403,8,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-28
+JOB0451,Cloud Data Engineer,Salesforce,Kolkata,2652732,1,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-07
+JOB0452,Cloud Data Engineer,Goldman Sachs,Kolkata,2755516,10,Technology,"Azure,Python,SQL,Fabric",Yes,2026-10-26
+JOB0453,Data Scientist,Accenture,Noida,1729331,5,Technology,"Python,ML,SQL",Hybrid,2026-11-08
+JOB0454,Fabric Engineer,Accenture,Mumbai,3345651,6,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-10
+JOB0455,Data Engineer,Cognizant,Mumbai,1417268,7,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-31
+JOB0456,Cloud Data Engineer,Accenture,Mumbai,2243561,6,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-24
+JOB0457,Fabric Engineer,TCS,Noida,2152584,3,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-20
+JOB0458,Data Analyst,HCL,Chennai,793853,2,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-25
+JOB0459,Cloud Data Engineer,Goldman Sachs,Mumbai,2102019,8,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-14
+JOB0460,Fabric Engineer,HCL,Pune,1949617,10,Technology,"Microsoft Fabric,SQL,Power BI",Hybrid,2026-10-12
+JOB0461,Data Scientist,Oracle,Chennai,2763423,3,Technology,"Python,ML,SQL",Yes,2026-10-24
+JOB0462,Fabric Engineer,Deloitte,Chennai,2862146,3,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-05
+JOB0463,Data Scientist,Infosys,Mumbai,2594729,5,Technology,"Python,ML,SQL",No,2026-10-26
+JOB0464,Machine Learning Engineer,Goldman Sachs,Hyderabad,2196422,5,Technology,"Python,ML,AWS,Spark",No,2026-10-25
+JOB0465,Cloud Data Engineer,Capgemini,Hyderabad,2666591,3,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-10-23
+JOB0466,Data Analyst,IBM,Kolkata,984526,6,Technology,"SQL,Excel,Power BI",Yes,2026-11-06
+JOB0467,Analytics Engineer,Wipro,Mumbai,1437748,3,Technology,"Python,SQL,DBT,Power BI",No,2026-10-29
+JOB0468,BI Developer,Accenture,Mumbai,967495,3,Technology,"Power BI,SQL,DAX",Yes,2026-10-21
+JOB0469,BI Developer,Adobe,Mumbai,1027900,6,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-26
+JOB0470,Fabric Engineer,Goldman Sachs,Delhi,2938318,8,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-10-12
+JOB0471,Data Engineer,HCL,Pune,1883988,7,Technology,"Python,SQL,Azure,Spark",No,2026-11-02
+JOB0472,Cloud Data Engineer,HCL,Pune,1663589,1,Technology,"Azure,Python,SQL,Fabric",No,2026-10-22
+JOB0473,Machine Learning Engineer,Microsoft,Mumbai,1658091,6,Technology,"Python,ML,AWS,Spark",Yes,2026-10-11
+JOB0474,Machine Learning Engineer,Salesforce,Bangalore,2000825,8,Technology,"Python,ML,AWS,Spark",Yes,2026-10-11
+JOB0475,Data Analyst,Microsoft,Hyderabad,1281874,7,Technology,"SQL,Excel,Power BI",No,2026-10-17
+JOB0476,BI Developer,Cognizant,Delhi,1437363,1,Technology,"Power BI,SQL,DAX",No,2026-10-19
+JOB0477,Machine Learning Engineer,Adobe,Hyderabad,2045589,4,Technology,"Python,ML,AWS,Spark",No,2026-10-25
+JOB0478,Analytics Engineer,Adobe,Delhi,2297334,9,Technology,"Python,SQL,DBT,Power BI",No,2026-11-07
+JOB0479,Fabric Engineer,Google,Pune,2602511,8,Technology,"Microsoft Fabric,SQL,Power BI",Yes,2026-11-10
+JOB0480,Data Scientist,Goldman Sachs,Kolkata,2676869,2,Technology,"Python,ML,SQL",Yes,2026-10-22
+JOB0481,Cloud Data Engineer,Deloitte,Bangalore,2420316,2,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-06
+JOB0482,Data Analyst,Adobe,Pune,1591140,9,Technology,"SQL,Excel,Power BI",Hybrid,2026-10-22
+JOB0483,Data Engineer,Cognizant,Chennai,2727356,2,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-31
+JOB0484,Machine Learning Engineer,Cognizant,Delhi,2636515,3,Technology,"Python,ML,AWS,Spark",No,2026-10-12
+JOB0485,Data Scientist,Amazon,Noida,2246501,1,Technology,"Python,ML,SQL",No,2026-11-05
+JOB0486,Data Engineer,Amazon,Noida,2767706,7,Technology,"Python,SQL,Azure,Spark",No,2026-10-31
+JOB0487,Data Engineer,Salesforce,Noida,2716575,5,Technology,"Python,SQL,Azure,Spark",No,2026-10-27
+JOB0488,Data Engineer,Microsoft,Noida,1745876,2,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-19
+JOB0489,Machine Learning Engineer,IBM,Pune,1880109,1,Technology,"Python,ML,AWS,Spark",Hybrid,2026-10-18
+JOB0490,Data Analyst,Amazon,Mumbai,1441041,1,Technology,"SQL,Excel,Power BI",Yes,2026-10-17
+JOB0491,Data Engineer,Goldman Sachs,Noida,2078268,8,Technology,"Python,SQL,Azure,Spark",Hybrid,2026-10-24
+JOB0492,Cloud Data Engineer,Google,Delhi,1735370,3,Technology,"Azure,Python,SQL,Fabric",Hybrid,2026-11-09
+JOB0493,Analytics Engineer,Infosys,Pune,1467015,4,Technology,"Python,SQL,DBT,Power BI",Hybrid,2026-10-13
+JOB0494,Data Scientist,Accenture,Bangalore,2210776,3,Technology,"Python,ML,SQL",No,2026-10-13
+JOB0495,Data Engineer,JP Morgan,Hyderabad,1406090,6,Technology,"Python,SQL,Azure,Spark",Yes,2026-10-18
+JOB0496,Analytics Engineer,Infosys,Delhi,2064217,4,Technology,"Python,SQL,DBT,Power BI",No,2026-10-29
+JOB0497,BI Developer,Accenture,Delhi,916728,7,Technology,"Power BI,SQL,DAX",No,2026-11-01
+JOB0498,BI Developer,IBM,Pune,1404325,2,Technology,"Power BI,SQL,DAX",Hybrid,2026-10-11
+JOB0499,BI Developer,HCL,Delhi,1687375,7,Technology,"Power BI,SQL,DAX",No,2026-10-28
+JOB0500,Data Analyst,Capgemini,Kolkata,1009809,10,Technology,"SQL,Excel,Power BI",No,2026-10-12
